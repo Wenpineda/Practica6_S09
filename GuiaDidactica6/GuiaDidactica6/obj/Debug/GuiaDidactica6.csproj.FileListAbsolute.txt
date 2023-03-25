@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\bin\Debug\GuiaDidactica6.exe.config
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\bin\Debug\GuiaDidactica6.exe
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\bin\Debug\GuiaDidactica6.pdb
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\obj\Debug\GuiaDidactica6.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\obj\Debug\GuiaDidactica6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\obj\Debug\GuiaDidactica6.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\obj\Debug\GuiaDidactica6.exe
+C:\Users\ALUMNO\Documents\Wendy\GuiaDidactica6\GuiaDidactica6\obj\Debug\GuiaDidactica6.pdb
